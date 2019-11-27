@@ -242,6 +242,9 @@ int estado_sensor2=DESACTIVADO;
 int numero_ingresado=0;
 int valor_sensor_luz=0;
 
+//Variable para contador
+int contador=0;
+
 //Variables elementos del sistema
 Buzzer buzzer1(pin_Buzzer1);
 Buzzer buzzer2(pin_Buzzer2);

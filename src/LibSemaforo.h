@@ -65,6 +65,8 @@ extern int estado_sensor2;
 extern int numero_ingresado;
 extern int valor_sensor_luz;
 
+//Variable Contador
+extern int contador;
 
 
 class Semaforo
