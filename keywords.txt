@@ -52,3 +52,4 @@ estado_sensor1	LITERAL1
 estado_sensor2	LITERAL1
 numero_ingresado	LITERAL1
 valor_sensor_luz	LITERAL1
+contador	LITERAL1
